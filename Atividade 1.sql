@@ -15,8 +15,8 @@ INSERT INTO clients(clients_name,clients_email, data_cadastro, atividade)
 		('Arthur', 'arthur@gmail.com', CURRENT_DATE, 'Ativo'),
     	('Tiago', 'tiaguin@gmail.com', CURRENT_DATE, 'Inativo'),
     	('Manel', 'manelzin_viado@gmail.com', CURRENT_DATE, 'Ativo'),
-    	('4', '4@gmail.com', CURRENT_DATE, 'Ativo'),
-    	('5', '5@gmail.com', CURRENT_DATE, 'Ativo');
+    	('Magao', 'mago@gmail.com', CURRENT_DATE, 'Ativo'),
+    	('Mascote', 'mascote@gmail.com', CURRENT_DATE, 'Ativo');
 
 SELECT * FROM clients;
 
